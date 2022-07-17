@@ -33,6 +33,9 @@ namespace Section02_DataTptes_And_Variables
 			Console.WriteLine("my Name is {name}, \n I am {age} years old. \n I'm a {job}");
 			Console.WriteLine(@"D:\Sources\Udemy_CS_MasterClass\Lecture\Section02_DataTptes_And_Variables\String조작방법.cs");
 
+			// 축자문자열을 안하면 경로 표시가 귀찮음
+			Console.WriteLine("D:\\Sources\\Udemy_CS_MasterClass\\Lecture\\Section02_DataTptes_And_Variables\\String조작방법.cs");
+
 
 
 
