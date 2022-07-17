@@ -1,0 +1,7 @@
+// 코딩스탠다드
+https://www.dofactory.com/csharp-coding-standards
+
+//치트시트
+//(데어티타입, 컨버전메소드, 모디파이어, 연산자, .... 등)
+// 헷갈릴수 있는거 정리
+https://cheatography.com/laurence/cheat-sheets/c/
