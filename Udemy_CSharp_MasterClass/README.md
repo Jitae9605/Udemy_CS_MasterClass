@@ -18,7 +18,7 @@ Learn C# Programming - WPF, Databases, Linq, Collections, Game Development with 
 
 ## Section02_DataTptes_And_Variables
 - 학습내용
-  - 데이터터입의 종류와 각 타입의 특징
+  - 데이터타입의 종류와 각 타입의 특징
   - 데이터타입 변환(Casting, Convert, Parse)
   - 입출력 포멧팅, 보간, 축자문자열의 사용
   - string타입의 조작 및 메소드와 활용
@@ -32,3 +32,5 @@ Learn C# Programming - WPF, Databases, Linq, Collections, Game Development with 
   - 다양한 연산자의 사용 및 
   - 
 ## Section04_Making_Decisions
+- 학습내용
+  - 
