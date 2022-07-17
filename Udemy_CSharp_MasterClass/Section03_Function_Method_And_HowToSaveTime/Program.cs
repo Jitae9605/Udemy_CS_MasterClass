@@ -10,6 +10,7 @@ namespace Section03_Function_Method_And_HowToSaveTime
 	{
 		static void Main(string[] args)
 		{
+
 		}
 	}
 }
