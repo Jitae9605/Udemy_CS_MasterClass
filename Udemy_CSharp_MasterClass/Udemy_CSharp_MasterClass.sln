@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section02_DataTptes_And_Var
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section03_Function_Method_And_HowToSaveTime", "Section03_Function_Method_And_HowToSaveTime\Section03_Function_Method_And_HowToSaveTime.csproj", "{F94BDFD8-8451-49C7-93A3-7A0F71058AFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section04_Making_Decisions", "Section04_Making_Decisions\Section04_Making_Decisions.csproj", "{07E5BAF4-2519-4640-996D-DA9187886A7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F94BDFD8-8451-49C7-93A3-7A0F71058AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F94BDFD8-8451-49C7-93A3-7A0F71058AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F94BDFD8-8451-49C7-93A3-7A0F71058AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07E5BAF4-2519-4640-996D-DA9187886A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E5BAF4-2519-4640-996D-DA9187886A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E5BAF4-2519-4640-996D-DA9187886A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E5BAF4-2519-4640-996D-DA9187886A7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Section03_Function_Method_And_HowToSaveTime
+namespace Section04_Making_Decisions
 {
 	class Program
 	{
 		static void Main(string[] args)
 		{
-
 		}
 	}
 }
