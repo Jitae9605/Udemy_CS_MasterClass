@@ -16,6 +16,7 @@ namespace Section04_Making_Decisions
 			Register();	// 등록
 			Login();	// 등록된아이디를 통한 로그인
 			Console.Read();
+
 		}
 
 		public static void Register()
