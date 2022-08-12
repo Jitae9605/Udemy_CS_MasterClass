@@ -43,9 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="if_else_TryParse.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="if_로그인시스템.cs" />
     <Compile Include="Switch_기본.cs" />
   </ItemGroup>
   <ItemGroup>

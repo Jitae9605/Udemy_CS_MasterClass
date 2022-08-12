@@ -8,6 +8,9 @@ namespace Section04_Making_Decisions
 {
 	internal class Switch_기본
 	{
-		static void 
+		static void Main(string[] args)
+		{
+
+		}
 	}
 }
