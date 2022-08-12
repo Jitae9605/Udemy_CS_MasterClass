@@ -64,8 +64,7 @@ namespace Section03_Function_Method_And_HowToSaveTime
 			isEqual = num1 != num2;
 			Console.WriteLine("result of num1 != num2 is {0}", isEqual);
 
-			// 조건연산자(And = && / Or = ||)
-
+			// 논리연산자(And = && / Or = ||)
 			// AND
 			bool isLowerAndSunny;
 			isLowerAndSunny = isLower && isSunny;
