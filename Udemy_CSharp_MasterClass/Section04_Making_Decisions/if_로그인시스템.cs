@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Section04_Making_Decisions
 {
-	class 로그인시스템
+	class if_로그인시스템
 	{
 		static string username;
 		static string password;
